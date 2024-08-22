@@ -33,10 +33,8 @@
 ### :globe_with_meridians: Social:
 
 <div>
-  <a href="https://www.linkedin.com/in/carlos-henrique-700560232/" target="_blank">
+  <a href="https://www.linkedin.com/in/mateus-davi-a492b8280/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/carloostrindade_/">
-    <img alt="Gmail" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+
 </div>
