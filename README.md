@@ -3,7 +3,6 @@
 - Software Developer 🧑🏻‍💻
 - Currently, i'm learning about Analise e Desenvolvimento de Sistemas
 - Passionate for learning new technologies and challenges 💻🖥
-- Footballholic ⚽
 - Enthusiastic for music and travels around the world ⛰🌍
 &nbsp;
 
